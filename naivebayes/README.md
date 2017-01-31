@@ -15,7 +15,7 @@ Usage:
   The 'feature_i' gives a feature (attribute) value.</br> 
   Labels in the testing file are only used to calculate accuracy or errors. If they are unknown, just fill the first column with any numbers.</br>
   The UCI mushroom dataset can be downloaded here : https://archive.ics.uci.edu/ml/datasets/Mushroom</br>
-+ Run: python naive_bayes.py path_of_training_dataset path_of_testing_dataset path_of_predict_label
++ Run: python naive_bayes.py path_of_training_dataset path_of_testing_dataset path_of_predict_label</br>
   In which:
   path_of_training_dataset : string, is the whole path of training dataset (e.g. agaricus-lepiota.data.train.txt)</br>
   path_of_testing_dataset : string, is the whole path of testing dataset (e.g. agaricus-lepiota.data.test1.txt)</br>
