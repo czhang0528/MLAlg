@@ -21,4 +21,3 @@ Usage:
   path_of_testing_dataset : string, is the whole path of testing dataset (e.g. agaricus-lepiota.data.test1.txt)</br>
   path_of_predict_label : string, is the whole path of output predicted label, one instance one line (e.g. output.txt)</br>
 + If you have any questions about running this script, feel free to contact author
-
