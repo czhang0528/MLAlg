@@ -5,7 +5,7 @@ Author: Cheng Zhang
 Contact: zhang.7804@osu.edu
 Date: 1/27/2017
 Description: Naive Bayes algorithm on mushroom dataset
-			 The script is also suitable for multi-class classification with multiple feature dimensions 
+	     The script is also suitable for multi-class classification with multiple feature dimensions 
 """
 import sys
 import time
